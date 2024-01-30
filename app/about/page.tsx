@@ -2,7 +2,7 @@ export default function About() {
   return (
     <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8">
       <p>
-        Introducing UniversalConverter, the ultimate multimedia conversion powerhouse that
+        Introducing Universal Converter, the ultimate multimedia conversion powerhouse that
         empowers you to transform images, audio files, and videos with
         unprecedented freedom, all at absolutely no cost! Say goodbye to
         limitations and hello to limitless creative possibilities.
@@ -59,7 +59,7 @@ export default function About() {
           🌐 Accessible Anywhere:
         </h2>
         <p>
-          Access UniversalConverter from any device with an internet connection. Whether
+          Access Universal Converter from any device with an internet connection. Whether
           you're on your computer, tablet, or smartphone, you can use our
           platform with ease.
         </p>
@@ -105,7 +105,7 @@ export default function About() {
         <p>
           Experience the freedom to convert images, audio, and video without
           boundaries. Elevate your multimedia projects with the unlimited
-          potential of UniversalConverter.
+          potential of Universal Converter.
         </p>
       </div>
 

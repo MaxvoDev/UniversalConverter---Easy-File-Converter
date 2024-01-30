@@ -21,8 +21,8 @@ export default function Navbar({}): any {
           alt="logo"
           className="cursor-pointer w-40"
           src="/images/logo.png"
-          height={100}
-          width={170}
+          height={200}
+          width={300}
         />
       </Link>
       <div className="gap-1 md:gap-2 lg:gap-4 hidden md:flex">
