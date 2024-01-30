@@ -8,8 +8,8 @@ import GA from '@/components/GA';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Modifio - Free Unlimited File Converter',
-  description: `Unleash your creativity with Modifio – the ultimate online tool for
+  title: 'Universal Converter - Free Unlimited File Converter',
+  description: `Unleash your creativity with Universal Converter – the ultimate online tool for
   unlimited and free multimedia conversion. Transform images, audio, and
   videos effortlessly, without restrictions. Start converting now and
   elevate your content like never before!`,

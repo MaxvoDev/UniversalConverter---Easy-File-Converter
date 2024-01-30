@@ -10,7 +10,7 @@ export default function Home() {
           Free Unlimited File Converter
         </h1>
         <p className="text-gray-400 text-md md:text-lg text-center md:px-24 xl:px-44 2xl:px-52">
-          Unleash your creativity with Modifio – the ultimate online tool for
+          Unleash your creativity with Universal Converter – the ultimate online tool for
           unlimited and free multimedia conversion. Transform images, audio, and
           videos effortlessly, without restrictions. Start converting now and
           elevate your content like never before!
