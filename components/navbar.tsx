@@ -20,7 +20,7 @@ export default function Navbar({}): any {
         <Image
           alt="logo"
           className="cursor-pointer w-40"
-          src="/images/logo.svg"
+          src="/images/logo.png"
           height={100}
           width={170}
         />
@@ -40,7 +40,7 @@ export default function Navbar({}): any {
           </Button>
         </Link>
       </div>
-      <Link href="https://github.com/MaxvoDev">
+      <Link href="https://github.com/MaxvoDev/UniversalConverter---Easy-File-Converter.git">
         <Button
           variant="default"
           className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
